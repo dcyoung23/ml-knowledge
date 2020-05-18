@@ -1,6 +1,9 @@
 # Description
-Repository to house all Kaggle Machine Learning Knowledge competition work.
+Repository to house all Kaggle Machine Learning Knowledge competition work and Machine Learning related online learning courses.
 
 # Table of Contents
-* [Titanic](titanic)
+* Kaggle Competitions
+    * [Titanic](titanic)
+* Courses
+    * [Machine Learning - Stanford](ml-stanford)
  

@@ -16,3 +16,11 @@ __init__.py
 # Misc project files/folders to exclude
 **/archive
 **/misc
+
+# Machine Learning Stanford files/folders
+ml-stanford/lessons
+**.pdf
+ml-stanford/**/lib
+**octave**
+**submit.m
+**token.mat
